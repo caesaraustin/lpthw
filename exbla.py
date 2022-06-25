@@ -1,0 +1,1 @@
+print("{} and {} scored a {}".format('blue', 'red', 50 ))
